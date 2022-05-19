@@ -40,3 +40,8 @@ body{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+.reserve{
+    background-color: rgb(239, 196, 75);
+    color: white;
+    padding-top: 2%; 
+}
